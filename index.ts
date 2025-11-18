@@ -5,7 +5,7 @@ import { cors } from '@elysiajs/cors'
 // ############ KONFIGURATION ############
 // Fügen Sie hier Ihre Connection String von MongoDB Atlas ein
 // ERSETZEN SIE <password> MIT IHREM ECHTEN DATENBANK-PASSWORT
-const MONGO_URI = "mongodb+srv://admin:test1234@cluster0.umjyj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const MONGO_URI = "";
 const dbName = 'quran_db';
 const collectionName = 'verses';
 
